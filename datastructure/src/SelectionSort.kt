@@ -14,7 +14,7 @@ object SelectionSort {
             swapThem( largest, lastUnSortedIndex-1)
         }
 
-        // the complexity is O(n) as you iterate two times if you have 10 input you will make 100 operations
+        // the  is O(n) as you iterate two times if you have 10 input you will make 100 operations
         // this algorithm is unstable algorithm
 
         for (i in input) {
