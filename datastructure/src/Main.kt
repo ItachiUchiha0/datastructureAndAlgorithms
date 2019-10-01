@@ -4,7 +4,8 @@ class Main {
         @JvmStatic fun main(args: Array<String>) {
             //ArraysAsDs.arrayAsDs(arrayOf(1,8,5,9,7))
             //BubbleSort.bubbleSort()
-            InsertionSort.insertionSort()
+            //InsertionSort.insertionSort()
+            ShellSort.shellSort()
         }
     }
 }

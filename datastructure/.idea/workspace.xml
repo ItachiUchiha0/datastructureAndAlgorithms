@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d1c11a-1674-4375-9990-c677e19cdbca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShellSort.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/datastructure/Main$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/datastructure/Main$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelectionSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelectionSort.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShellSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShellSort.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569846981275</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding insertion sort">
+      <created>1569882836026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569882836026</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementing Selection sort and Bubble sort ." />
-    <option name="LAST_COMMIT_MESSAGE" value="implementing Selection sort and Bubble sort ." />
+    <MESSAGE value="adding insertion sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding insertion sort" />
   </component>
 </project>
